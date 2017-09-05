@@ -49,11 +49,11 @@ font awesome
 
 + http://fontawesome.io/
 
-* 免费的图标、应用程序。*
+*免费的图标、应用程序。*
 
 + https://icomoon.io
 
-* 按钮、图像摇动效果* 
+*按钮、图像摇动效果* 
 
 + elrumordelaluz.github.io/csshake
 
