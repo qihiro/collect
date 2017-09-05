@@ -58,7 +58,7 @@ font awesome
 *说明*
 handlebars
 
-##滚动条自定义插件：
+## 滚动条自定义插件：
 
 项目页面：http://manos.mailhu.gr/jquery-custom-content-scroller/
 
