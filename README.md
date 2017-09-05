@@ -67,7 +67,7 @@ font awesome
 *cssreset*
 + /////cssreset.com
 
-* Normalize.css是一种CSS reset的替代方案。*
+*Normalize.css是一种CSS reset的替代方案。*
 
 + http://necolas.github.io/normalize.css/
 
