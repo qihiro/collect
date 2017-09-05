@@ -36,7 +36,7 @@
 ### 5. 矢量图标库、组件
 *bootstrap3图标库，无数可复用的组件，包括字体图标、下拉菜单、导航、警告框、弹出框等更多功能*
 
-+glyphicons   v3.bootcss.com/components
++ glyphicons   v3.bootcss.com/components
 
 *iconfont矢量字体图标库*
 
@@ -59,7 +59,7 @@ font awesome
 
 ### 教程
 *handlebars  模板引擎*
-http://www.imooc.com/learn/859
++ http://www.imooc.com/learn/859
 
 ### 兼容、格式化
 *说浏览器兼容格式化代码*
@@ -67,11 +67,12 @@ http://www.imooc.com/learn/859
 *cssreset*
 + /////cssreset.com
 
-*Normalize.css是一种CSS reset的替代方案。*
+* Normalize.css是一种CSS reset的替代方案。*
 
 + http://necolas.github.io/normalize.css/
 
 ### 插件
+
 *滚动条自定义插件：*
 
 + ////项目页面：http://manos.malihu.gr/jquery-custom-content-scroller/
