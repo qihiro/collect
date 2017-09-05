@@ -1,37 +1,37 @@
 # collect-disign
-### 编辑器
+### 1. 编辑器
  www.coffeecup.com
  
-### 配色
- www.design-seeds.com
+### 2. 配色
+ + www.design-seeds.com
 
- www.peise.net
+ + www.peise.net
 
- tool.c7sky.com/webcolor/
+ + tool.c7sky.com/webcolor/
 
 ### **web design inspiration and website gallery**
- www.uisdc.com
+ +  www.uisdc.com
 
- www.zcool.com.cn
+ +  www.zcool.com.cn
 
- www.ui.cn
+ + www.ui.cn
 
- www.dribbble.com
+ + www.dribbble.com
 
- www.behance.com
+ + www.behance.com
 
- 花瓣网
+ +  花瓣网
 
- reeoo.com
+ + reeoo.com
 
 ###loading
 
 *GIF, SVG, APNG loading animations*
 
-preloaders.net
++ preloaders.net
 
 *Build Your Ajax Loading Icons with SVG / CSS / GIF !*
-www.loading.io
++ www.loading.io
 
 
 *说浏览器兼容格式化代码*
@@ -43,9 +43,9 @@ glyphicons   v3.bootcss.com/components
 
 *iconfont矢量字体图标库*
 
-www.iconfont.cn/plus/home/index
++ www.iconfont.cn/plus/home/index
 
-http://www.iconfont.cn/
++ http://www.iconfont.cn/
 
 *cssreset*
 /////cssreset.com
