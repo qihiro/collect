@@ -1,71 +1,79 @@
 # collect-disign
-*说明*
-www.design-seeds.com
+### 编辑器
+ www.coffeecup.com
+ 
+### 配色
+ www.design-seeds.com
 
-*说明*
-www.peise.net
+ www.peise.net
 
-*说明*
-www.coffeecup.com
+ tool.c7sky.com/webcolor/
 
-*说明*
-tool.c7sky.com/webcolor/
+### **web design inspiration and website gallery**
+ www.uisdc.com
 
-*说明*
-www.uisdc.com
+ www.zcool.com.cn
 
-*说明*
-www.zcool.com.cn
+ www.ui.cn
 
-*说明*
-www.ui.cn
+ www.dribbble.com
 
-*说明*
-www.dribbble.com
+ www.behance.com
 
-*说明*
-www.behance.com
+ 花瓣网
 
-*说明*
-花瓣网
+ reeoo.com
 
-reeoo.com
-*说明*
+###loading
+
+*GIF, SVG, APNG loading animations*
 
 preloaders.net
 
-*说明*
+*Build Your Ajax Loading Icons with SVG / CSS / GIF !*
 www.loading.io
 
-*说明*
+
+*说浏览器兼容格式化代码*
 autoprefixer.github.io
 
-*说明*
+*bootstrap3图标库，无数可复用的组件，包括字体图标、下拉菜单、导航、警告框、弹出框等更多功能*
+
 glyphicons   v3.bootcss.com/components
 
-*说明*
+*iconfont矢量字体图标库*
+
 www.iconfont.cn/plus/home/index
 
-*说明*
-cssreset.com
+http://www.iconfont.cn/
 
-*说明*
-nomolise.css
+*cssreset*
+/////cssreset.com
 
-*说明*
+*Normalize.css是一种CSS reset的替代方案。*
+
+http://necolas.github.io/normalize.css/
+
+*字体图标库*
 font awesome
 
-*说明*
-handlebars
+http://fontawesome.io/
 
-## 滚动条自定义插件：
 
-项目页面：http://manos.mailhu.gr/jquery-custom-content-scroller/
+*滚动条自定义插件：*
+
+////项目页面：http://manos.malihu.gr/jquery-custom-content-scroller/
 
 github地址：https://github.com/malihu/malihu-custom-scrollbar-plugin
 
 * 免费的图标、应用程序。*
+
 https://icomoon.io
 
-* 按钮、图像摇动效果*    
+* 按钮、图像摇动效果* 
+
 elrumordelaluz.github.io/csshake
+
+### 教程
+*handlebars  模板引擎*
+http://www.imooc.com/learn/859
