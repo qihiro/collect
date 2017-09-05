@@ -64,7 +64,8 @@ handlebars
 
 github地址：https://github.com/malihu/malihu-custom-scrollbar-plugin
 
-##免费的图标、应用程序。
-https://icommoon.io
+* 免费的图标、应用程序。*
+https://icomoon.io
 
+* 按钮、图像摇动效果*    
 elrumordelaluz.github.io/csshake
